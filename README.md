@@ -34,10 +34,6 @@
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" />
 </div>   
-    
-    
-
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação.
 
 ## Contato:
 - frederico.diniz.rufino@gmail.com
