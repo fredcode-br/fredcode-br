@@ -1,12 +1,12 @@
 ### Olá! Frederico Rufino aqui 👋 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-rufino/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredcode-br/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fred_drufino/)
 
 <div align="center">
-    <a href="https://github.com/frederico-rufino">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=frederico-rufino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederico-rufino&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/fredcode-br">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredcode-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredcode-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 💻 | Tecnologias que utilizo
